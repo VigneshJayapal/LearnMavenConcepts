@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Main-Class: seleniumtest.OpenGoogle
+Class-Path: selenium-ie-driver-4.40.0.jar selenium-json-4.40.0.jar jspec
+ ify-1.0.0.jar byte-buddy-1.18.4.jar selenium-safari-driver-4.40.0.jar s
+ elenium-remote-driver-4.40.0.jar webdriver-selenium-0.9.7376.jar seleni
+ um-chrome-driver-4.40.0.jar opentelemetry-sdk-trace-1.58.0.jar opentele
+ metry-sdk-logs-1.58.0.jar error_prone_annotations-2.41.0.jar selenium-d
+ evtools-v144-4.40.0.jar listenablefuture-9999.0-empty-to-avoid-conflict
+ -with-guava.jar selenium-http-4.40.0.jar opentelemetry-sdk-common-1.58.
+ 0.jar opentelemetry-sdk-extension-autoconfigure-1.58.0.jar selenium-os-
+ 4.40.0.jar webdriver-common-0.9.7376.jar selenium-support-4.40.0.jar se
+ lenium-devtools-v142-4.40.0.jar opentelemetry-common-1.58.0.jar seleniu
+ m-java-client-driver-1.0.1.jar guava-33.5.0-jre.jar opentelemetry-sdk-1
+ .58.0.jar selenium-edge-driver-4.40.0.jar selenium-firefox-driver-4.40.
+ 0.jar opentelemetry-exporter-logging-1.58.0.jar selenium-manager-4.40.0
+ .jar selenium-devtools-v143-4.40.0.jar auto-service-annotations-1.1.1.j
+ ar opentelemetry-sdk-metrics-1.58.0.jar opentelemetry-context-1.58.0.ja
+ r j2objc-annotations-3.1.jar opentelemetry-api-1.58.0.jar selenium-chro
+ mium-driver-4.40.0.jar opentelemetry-sdk-extension-autoconfigure-spi-1.
+ 58.0.jar selenium-java-4.40.0.jar selenium-api-4.40.0.jar failureaccess
+ -1.0.3.jar
+
